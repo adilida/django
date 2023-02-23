@@ -1,0 +1,7 @@
+venv/
+todoList/
+myBlog/db.sqlite3
+portfolio/
+main.py
+pwhTutorial/
+.idea/
